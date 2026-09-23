@@ -1,0 +1,15 @@
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.AssemblyInfoInputs.cache
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.AssemblyInfo.cs
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.csproj.CoreCompileInputs.cache
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.sourcelink.json
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/bin/Debug/net10.0/exo_21_09
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/bin/Debug/net10.0/exo_21_09.deps.json
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/bin/Debug/net10.0/exo_21_09.runtimeconfig.json
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/bin/Debug/net10.0/exo_21_09.dll
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/bin/Debug/net10.0/exo_21_09.pdb
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.dll
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/refint/exo_21_09.dll
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.pdb
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/exo_21_09.genruntimeconfig.cache
+/Users/logercassandra/github_21_09/sio2_exo_21_09/exo_21_09/obj/Debug/net10.0/ref/exo_21_09.dll
