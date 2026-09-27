@@ -2,7 +2,7 @@
 {
     static void Main (string[] args)
     {
-        var element = new Produit("Clavier", 49.90m);
+        var element = new Client("Alice", "alice@exemple.com");
         element.Afficher();
 }
 }
