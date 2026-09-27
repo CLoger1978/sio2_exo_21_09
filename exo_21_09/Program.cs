@@ -1,21 +1,21 @@
-﻿class Program
+﻿using System;
+class Program
 {
-    static void Main (string[] args)
+    // La méthode demandée pour l'exercice 4
+    public static void AfficherElement(IAffichable element)
     {
-        var element = new Client("Alice", "alice@exemple.com");
         element.Afficher();
+    }
+
+    static void Main(string[] args)
+    {
+        var produit = new Produit("Clavier", 49.90m);
+        var client = new Client("Alice", "alice@example.com");
+        var commande = new Commande(1, 150.00m); // Exemple pour la commande
+
+        // Utilisation de la même méthode avec les différents objets
+        AfficherElement(produit);
+        AfficherElement(client);
+        AfficherElement(commande);
+    }
 }
-}
-/*Questions
-Quel est le type de la variable element ?
-var
-Quel est le type réel de l'objet dans le premier exemple ?
-string et decimal
-Quel est le type réel de l'objet dans le deuxième exemple ?
-string et string
-Pourquoi element.Afficher() fonctionne-t-il dans les deux cas ?
-car il correspond au nouveaux produit
-Peut-on écrire :
-element.Prix
-Pourquoi ?
-non parce qu'il n'existe pas dans le programme*/
